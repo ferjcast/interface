@@ -48,3 +48,11 @@ package-lock.json
 .idea
 .vscode
 .env.development
+
+# Generated SBOM files
+*-sbom.spdx.json
+*-sbom.cdx.json
+*-source-sbom.spdx.json
+
+# Nix build output
+result
