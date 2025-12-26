@@ -1,3 +1,7 @@
+> **📋 Anonymized Fork Notice**
+> 
+> This repository is a fork of [aave/interface](https://github.com/aave/interface), modified to include Nix flakes for reproducible builds. The modifications enable hermetic, verifiable builds with SBOM generation and vulnerability scanning capabilities. This fork is anonymized for double-blind peer review purposes.
+
 ```
         .///.                .///.     //.            .//  `/////////////-
        `++:++`              .++:++`    :++`          `++:  `++:......---.`
